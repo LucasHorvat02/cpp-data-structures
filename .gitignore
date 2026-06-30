@@ -1,6 +1,7 @@
 *.out
 *.exe
 myprogram
+main
 *.o
 *.obj
 .vscode/
